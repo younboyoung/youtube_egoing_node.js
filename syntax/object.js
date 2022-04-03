@@ -1,0 +1,11 @@
+var members = ['egoing', 'k8805', 'hoya'];
+
+console.log(members[1]);
+
+var roles = {
+    'program' : 'egoing',
+    'designer' : 'k8805',
+    'manager' : 'hoya'
+}
+
+console.log(roles.manager)
